@@ -1,4 +1,6 @@
 # Dead-Priorities
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
+
 ## What is it?
 So it's just a priority cooldown script... I know what you're thinking. This is already a thing, it's already made! Well actually I found problems with the ones I found on the Fivem forums, so I decided to make a new one with some extra features. Another feature is that when the cooldowns are on (priority in progress, priorities on hold, or cooldown is above 0), then a message will be displayed to players driving a car 80 MPH or faster. This can be disabled in the configuration file too if you don't want this feature though.
 ## Commands
