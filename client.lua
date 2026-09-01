@@ -66,7 +66,7 @@ Citizen.CreateThread(function()
 					if speed >= 80 then 
 						-- Too fast if we are on cooldown
 						if displayCooldown <= 2000 then 
-							if inProgess or onHold or (currentCooldownTime > 0) then 
+							if inprogress or onhold or (currentCooldownTime > 0) then 
 								drawFast = true;
 							end
 						else 
